@@ -1,4 +1,4 @@
-AC_INIT([wmctrl], 1.08)
+AC_INIT([wmctrl], 1.09)
 AC_CONFIG_SRCDIR([main.c])
 AM_INIT_AUTOMAKE
 AC_PROG_CC
