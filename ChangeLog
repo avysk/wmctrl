@@ -1,4 +1,7 @@
 27 Feb 2023 Alexey Vyskubov <alexey@ocaml.nl>
+  * Apply patches from FreeBSD ports
+
+27 Feb 2023 Alexey Vyskubov <alexey@ocaml.nl>
   * Include 64-bit fix from https://github.com/dancor/wmctrl
 
 
