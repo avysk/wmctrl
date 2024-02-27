@@ -1,3 +1,6 @@
+27 Feb 2023 Alexey Vyskubov <alexey@ocaml.nl>
+  * Include 64-bit fix from https://github.com/dancor/wmctrl
+
 
 03 Jan 2005  Tomas Styblo  <tripie@cpan.org>
   * 1.07 released
