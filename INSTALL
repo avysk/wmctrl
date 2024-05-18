@@ -2,7 +2,7 @@ Installation Instructions
 *************************
 
    Copyright (C) 1994-1996, 1999-2002, 2004-2017, 2020-2021 Free
-Software Foundation, Inc.
+Software Foundation, Inc.; 2004 Alexey Vyskubov <alexey@hotmail.fi>
 
    Copying and distribution of this file, with or without modification,
 are permitted in any medium without royalty provided the copyright
@@ -11,6 +11,8 @@ without warranty of any kind.
 
 Basic Installation
 ==================
+
+   Start with running 'autoreconf' to generate autotools' artifacts.
 
    Briefly, the shell command './configure && make && make install'
 should configure, build, and install this package.  The following
