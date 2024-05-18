@@ -1,4 +1,4 @@
-AC_INIT([wmctrl], 1.09)
+AC_INIT([wmctrl-fork], 1.09.02)
 AC_CONFIG_SRCDIR([main.c])
 AM_INIT_AUTOMAKE
 AC_PROG_CC
